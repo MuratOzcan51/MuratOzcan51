@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratozcan51&label=Profile%20views&color=0e75b6&style=flat" alt="muratozcan51" /> </p>
 
-- 🔭 I’m currently working on Data Science **Data Science**
+- 🔭 I’m currently working on Data Engineering
 
 - 📝 I regularly write articles on [https://medium.com/@muratozcann](https://medium.com/@muratozcann)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **ETL**
 
 - 📫 How to reach me **muratozcan666@gmail.com**
 
